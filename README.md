@@ -1,4 +1,4 @@
-# Array Methods and method chaining
+# Array Methods in JS
 
 **1. Filter Method** : *Used to filter out some elements from an array based on some conditions. It returns a new array.*
 > For ex : Given an array of integers, create a new array which contains only the elements those are greater than 50.
